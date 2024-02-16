@@ -1,23 +1,12 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm João Pedro</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=espjotape&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Web Development Student 
-  
-- 💬 Ask me about **JavaScript, HTML, CSS**
-<br><br>
-## 🛠 &nbsp;Tech Stack
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-esp/) 
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/esp.joaoo/)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+<p>Sou estudante de Front-end com essas tecnologias: HTML, CSS, JavaScript<p/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=espjotape&theme=Dark&show_icons=true)
-<br><br>
-## Contact
+*"Um dia, quando olhares para trás, verás que os dias mais belos foram aqueles em que lutaste." - Sigmund Freud"*
 
-<a href="https://linkedin.com/in/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-joaopedro-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://www.instagram.com/esp.joaoo/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-espjoaop-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
+Isso explica por que não devemos pautar nossa existência em valores escrotos: prazer, sucesso material, estar sempre certo e otimismo implacável. Alguns dos melhores momentos da vida **não são prazerosos**, **não são grandiosos**, **não são reconhecidos**
+e **não são positivos**. O importante é ter bons valores e bons parâmetros e o prazer e o sucesso virão como consequências naturais se tomados como valores em si, trazem apenas euforias vazias...
+
