@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-esp/) 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/esp.joaoo/)
 
-<p>Sou estudante de Front-end com essas tecnologias: HTML, CSS, JavaScript<p/>
+<p>Sou estudante de Front-end com essas tecnologias: HTML, CSS, JavaScript, ReactJs<p/>
 
 *"Um dia, quando olhares para trás, verás que os dias mais belos foram aqueles em que lutaste." - Sigmund Freud"*
 
